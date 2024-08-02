@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "upd-client"
+name = "terminal-output"
 version = "0.1.0"
